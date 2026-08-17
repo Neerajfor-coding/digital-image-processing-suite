@@ -1,7 +1,4 @@
-"""
-Main Execution Script for Digital Image Processing Suite
-Author: Neeraj Gupta
-"""
+
 
 import dip_utils as dip
 import matplotlib.pyplot as plt
